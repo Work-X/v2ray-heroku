@@ -5,10 +5,10 @@
     "env": {
         "UUID": {
             "description": "V2Ray UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "Work-X",
+    "repository": "Work-X",
     "stack": "container"
 }
